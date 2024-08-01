@@ -77,6 +77,11 @@ The Submit Joke Service is deployed to Amazon EC2 instances for scalability and 
 2. Creating and configuring an EC2 instance.
 3. Pulling and running the Docker image on the EC2 instance.
 
+
+## Database
+
+ MongoDB is hosted in MongoDB Atlas.
+
 ## Swagger Documentation
 
 Swagger is integrated for API documentation. Once the service is running, you can access the Swagger UI at `http://localhost:3000/api-docs` to explore the available endpoints and their details.
